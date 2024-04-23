@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
+    "swiper": "^11.1.1",
     "vue": "^3.4.21",
+    "vue-multilanguage": "^4.0.18",
     "vue-router": "^4.3.0",
     "vuex": "^4.0.2"
   },
