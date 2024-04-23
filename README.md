@@ -1,29 +1,68 @@
-# pokedexatt
 
-This template should help get you started developing with Vue 3 in Vite.
+# Pokedex
 
-## Recommended IDE Setup
+Projeto desenvolvido para teste tecnico da empresa Mainô. Nestre projeto, podemos ver uma Pokedex, com os dados extraidos da API PokeAPI, com todos os Pokemons, com scroll infinito ,de todas as gerações, também é possível filtrá-los por nome, numero da pokedex, tipo e espécie.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+![image](./readme/images/projeto.jpg)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Tecnologias Utilizadas
 
-## Project Setup
+* Vue 
+* Vuex
+* Swiper
+* Vite 
+* Bootstrap
+* Vercel
 
-```sh
-npm install
+## Como utilizar a aplicação
+
+Ao entrar no aplicativo, você consegue ver a lista de pokemons existentes, ao scrollar para baixo, ele carrega mais dados dos próximos pokemons.
+
+
+### Filtro
+
+Ao digitar o nome do pokemon desejado e clicando em Pesquisar, a lista atualiza com os pokemons que derem match com sua pesquisa.
+
+![image](./readme/images/filtro-nome.png)
+
+Ao selecionar o tipo, você recebe a lista de pokemons do tipo selecionado.
+
+![image](./readme/images/filtro-tipo.png)
+
+Ao selecionar a espécie, ele traz na lista os resultados dos pokemons daquela espécie.
+
+![image](./readme/images/filtro-especie.png)
+
+## Acessar o projeto online
+
+O projeto está rodando no servidor do Vercel. Você pode acessá-lo no link: 
+
+[Pokedex](https://pokedex-qdwdpdhkq-ferbortolotos-projects.vercel.app/)
+
+## Como clonar o projeto e rodar localmente
+
+### Pré requisitos
+
+* Node
+* NPM
+
+### Clonar o projeto
+
+```
+git clone https://github.com/ferbortoloto/Pokedex.git
 ```
 
-### Compile and Hot-Reload for Development
+### Instalar as dependências
 
-```sh
+Entre na pasta do projeto e execute o comando
+
+```
+npm i
+```
+
+### Rodar o projeto
+
+```
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
