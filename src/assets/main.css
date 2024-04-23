@@ -206,9 +206,47 @@ body {
     background-color: blue;
 }
 
+.badge-bg-water2 {
+    background-color: blue;
+}
+
+.badge-bg-water3 {
+    background-color: blue;
+}
+
 .badge-bg-plant {
     background-color: green;
 }
+
+.badge-bg-bug {
+    background-color: green;
+}
+
+.badge-bg-flying {
+    background-color: orangered;
+}
+
+.badge-bg-ground {
+    background-color: brown;
+}
+
+.badge-bg-fairy {
+    background-color: pink;
+}
+
+.badge-bg-mineral {
+    background-color: burlywood;
+}
+
+.badge-bg-indeterminate {
+    background-color: black;
+}
+
+.badge-bg-ditto {
+    background-color: palevioletred;
+}
+
+
 
 .bg-gradient-red-modal .swiper-title {
     color: white !important;
