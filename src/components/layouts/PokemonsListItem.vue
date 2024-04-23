@@ -63,7 +63,6 @@ function errorImage(event) {
     </div>
 </template>
 
-<!-- background: linear-gradient(to right, red, blue); -->
 
 <style scoped>
 .cardList {

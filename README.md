@@ -38,7 +38,7 @@ Ao selecionar a espécie, ele traz na lista os resultados dos pokemons daquela e
 
 O projeto está rodando no servidor do Vercel. Você pode acessá-lo no link: 
 
-[Pokedex](https://pokedex-qdwdpdhkq-ferbortolotos-projects.vercel.app/)
+[Pokedex](https://pokedex-nine-kohl.vercel.app/)
 
 ## Como clonar o projeto e rodar localmente
 
