@@ -1,7 +1,7 @@
 
 # Pokedex
 
-Projeto desenvolvido para teste técnico. Nestre projeto, podemos ver uma Pokedex, com os dados extraidos da API PokeAPI, com todos os Pokemons, com scroll infinito ,de todas as gerações, também é possível filtrá-los por nome, numero da pokedex, tipo e espécie.
+Projeto desenvolvido para teste técnico. Neste projeto, podemos ver uma Pokedex, com os dados extraidos da API PokeAPI, com todos os Pokemons, com scroll infinito ,de todas as gerações, também é possível filtrá-los por nome, numero da pokedex, tipo e espécie.
 
 ## Tecnologias Utilizadas
 
