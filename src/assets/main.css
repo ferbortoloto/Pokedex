@@ -65,7 +65,7 @@ body {
 }
 
 .bg-gradient-red {
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.5)20%, rgba(255, 0, 0, 0.7) 80%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 20%, rgba(255, 0, 0, 0.7) 80%);
     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
@@ -74,7 +74,7 @@ body {
 }
 
 .bg-gradient-red-modal {
-    background: linear-gradient(180deg, rgba(131, 1, 1, 0.5)20%, rgba(255, 0, 0, 0.7) 80%);
+    background: linear-gradient(180deg, rgba(131, 1, 1, 0.5) 20%, rgba(255, 0, 0, 0.7) 80%);
     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
